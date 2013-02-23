@@ -1,0 +1,8 @@
+.bundle
+.idea
+vendor/cache
+vendor/bundle
+/log/*.log
+/tmp
+.DS_Store
+tags
