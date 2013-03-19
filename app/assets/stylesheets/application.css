@@ -20,12 +20,11 @@ body {
     background-image: url("/assets/iphone.png");
     width: 300px;
     height: 597px;
+    padding-top: 114px;
 }
 
-.row {
+.screen {
+    margin-bottom: 25px;
     width: 100%;
-}
-
-.col {
-    width: 33%;
+    height: 100%;
 }
